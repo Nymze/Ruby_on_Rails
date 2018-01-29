@@ -28,7 +28,7 @@ Dès qu'il y a un compte utilisateur, possibilité de commenter, ou de poster de
 _On peut l'expliquer grâce à une image. Voici le chemin de la requête : l'utilisateur va sur le site, en fonction de ce qu'il demande au site, comment il se connecte dessus, le site va aller sur le routeur et va demander une fonction, une méthode du controlleur. Le controlleur reconnait la méthode, demande au modèle les informations nécessaire dans la database. Le model renvoit ces informations au controlleur, qui fait le lien avec la view, c'est à dire que le controlleur envoit les informations récupérer à la view, qui va construire la page, la mettre en forme (en HTML et ruby, avec ces informations et renvoyer ce message au controlleur, qui renvoit ça sur le site et à l'utilisateur. _
 
 
-Inline-style: 
+
 ![alt text](https://github.com/Nymze/Ruby_on_Rails/blob/master/MVC.png "MVC 1")
 
 
