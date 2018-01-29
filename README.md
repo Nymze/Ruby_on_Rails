@@ -32,6 +32,7 @@ _On peut l'expliquer grâce à une image. Voici le chemin de la requête : l'uti
 
 
 
+
 ## III. Les routes 
 
 Les routes permettent d’interpréter les URL et d’orienter vers les bonnes actions des controlleurs. La configuration se trouve dans le fichier config/routes.rb .
