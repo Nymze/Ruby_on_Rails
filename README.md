@@ -36,6 +36,9 @@ _On peut l'expliquer grâce à une image. Voici le chemin de la requête : l'uti
 
 ## III. Les routes 
 
-Les routes permettent d’interpréter les URL et d’orienter vers les bonnes actions des controlleurs. La configuration se trouve dans le fichier config/routes.rb .
+Les routes permettent d’interpréter les URL et d’orienter vers les bonnes actions des controlleurs. La configuration se trouve dans le fichier *config/routes.rb* .
 
+## IV. le concept de migration
+
+Ce qu'on appelle "migration" sur ruby on rails permet de modifier la structure de la base de données. C'est à dire ajouter, supprimer ou modifier une table ou une colonne. Lorsque l'on souhaite modifier le nom d'une colonne par exemple, il faut effectuer une migration pour l'enregistrer.
 
