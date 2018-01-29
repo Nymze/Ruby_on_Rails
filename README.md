@@ -42,3 +42,6 @@ Les routes permettent d’interpréter les URL et d’orienter vers les bonnes a
 
 Ce qu'on appelle "migration" sur ruby on rails permet de modifier la structure de la base de données. C'est à dire ajouter, supprimer ou modifier une table ou une colonne. Lorsque l'on souhaite modifier le nom d'une colonne par exemple, il faut effectuer une migration pour l'enregistrer.
 
+## Les relations entre les models et les BDD
+
+Les modèles font le lien entre la base de données et le controlleur, donc notre application au final. Ils permettent de selectionner dans la base de données les informations qui nous intéresse pour les transmettre au controlleur et les mettre en forme dans la view.
