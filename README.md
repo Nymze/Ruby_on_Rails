@@ -29,7 +29,7 @@ _On peut l'expliquer grâce à une image. Voici le chemin de la requête : l'uti
 
 
 Inline-style: 
-![alt text]()
+![alt text](https://github.com/Nymze/Ruby_on_Rails/blob/master/MVC.png "MVC 1")
 
 
 
